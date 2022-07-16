@@ -6,6 +6,7 @@ authors = ["nerooren <nerooren4001@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+capitalize = {path = "package_name"}
 
 [tool.poetry.dev-dependencies]
 

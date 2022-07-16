@@ -1,7 +1,6 @@
 #! /usr/bin/env python3
 # -*- coding: utf-8 -*-
-from package-name.capitalize import capitalize
-
+from package_name.capitalize import capitalize
 if capitalize('hello') != 'Hello':
     raise Exception('Функция работает неверно!')
 
